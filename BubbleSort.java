@@ -48,4 +48,4 @@ public class BubbleSort {
 		object.mainsorting();
 		object.showdata();
 	}
-}
+};
